@@ -11,8 +11,8 @@ namespace SharPong
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
 
-        const int SCREEN_WIDTH = 900;
-        const int SCREEN_HEIGHT = 400;
+        const int SCREEN_WIDTH = 1080;
+        const int SCREEN_HEIGHT = 720;
 
         // Paddle Vars //
         private int paddle_width;
